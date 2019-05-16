@@ -17,6 +17,7 @@ namespace Projeto_Teste
                 Console.WriteLine("porra");
             }
             Console.WriteLine("Deu certo");
+            Console.WriteLine("Mais um teste");
             Console.ReadLine();
         }
     }
